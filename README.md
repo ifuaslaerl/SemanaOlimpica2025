@@ -1,10 +1,10 @@
-# 🏆 Semana Olímpica de Informática UFRJ 2025
+# Semana Olímpica de Informática UFRJ 2025
 
 Seja muito bem-vindo(a) ao repositório oficial de soluções da **Semana Olímpica 2025**, organizada pela **UFRJ**. Este espaço foi criado para centralizar os códigos, exemplos e gabaritos das atividades realizadas durante a nossa semana de treinamento intensivo.
 
 ---
 
-## 👋 Para os Alunos
+## Para os Alunos
 
 Parabéns por participar da Semana Olímpica! Sabemos que a jornada na Programação Competitiva é desafiadora, mas cada problema resolvido é um passo rumo à medalha.
 
@@ -12,8 +12,6 @@ Parabéns por participar da Semana Olímpica! Sabemos que a jornada na Programa�
 1.  **Tente primeiro:** A melhor forma de aprender é "quebrar a cabeça". Só consulte o gabarito depois de tentar resolver o problema sozinho ou de ter discutido com colegas.
 2.  **Estude o código:** Não faça apenas *copy-paste*. Leia os comentários, entenda a lógica e a complexidade do algoritmo utilizado.
 3.  **Dúvidas:** Se mesmo com o código a solução não ficou clara, procure um dos monitores ou instrutores no nosso discord!
-
-> 💡 **Dica:** O código é uma ferramenta. O que importa é o raciocínio lógico por trás dele.
 
 ### Estrutura dos Conteúdos
 O material está organizado cronologicamente e por tópicos para facilitar seus estudos:
@@ -36,7 +34,7 @@ Se você precisa da resolução de uma questão específica que ainda não apare
 
 ---
 
-## 👨‍🏫 Para Instrutores e Monitores
+## Para Instrutores e Monitores
 
 Obrigado por contribuir com o aprendizado dos alunos! Para mantermos o repositório organizado e didático, por favor, sigam as diretrizes abaixo ao subirem seus códigos.
 
@@ -74,8 +72,14 @@ Obrigado por contribuir com o aprendizado dos alunos! Para mantermos o repositó
 3.  Faça o commit com uma mensagem clara: `git commit -m "Adiciona solução do problema C do Dia 4"`
 4.  Envie para o remoto: `git push`
 
+# Desenvolvedores do repositório:
+
+> Adicionem o nome de vocês aqui!
+
+[Luís Rafael Sena](https://github.com/ifuaslaerl)
+
 ---
 
-## 🚀 Bons estudos e boa codificação!
+## Bons estudos!
 
 *Equipe da Semana Olímpica de Informática - UFRJ 2025*
