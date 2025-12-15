@@ -78,6 +78,8 @@ Obrigado por contribuir com o aprendizado dos alunos! Para mantermos o repositó
 
 [Luís Rafael Sena](https://github.com/ifuaslaerl)
 
+[Daniel Castro](https://github.com/danielbirenbaum)
+
 ---
 
 ## Bons estudos!
